@@ -1,0 +1,30 @@
+15:40:15.540 [main] INFO  testCases.TC001_AccountRegistrationTest - * Click on Register Link *
+15:40:15.549 [main] INFO  testCases.TC001_AccountRegistrationTest - * Providing Customer Details *
+15:40:17.860 [main] INFO  testCases.TC001_AccountRegistrationTest - * Validating Expected Message.. *
+15:40:28.232 [main] INFO  testCases.TC002_LoginTest - ***** Staring TC_002_LoginTest *****
+15:40:28.232 [main] INFO  testCases.TC002_LoginTest - ** Open Home Page **
+15:40:30.421 [main] INFO  testCases.TC002_LoginTest - ** Home Page is opened **
+15:40:30.421 [main] INFO  testCases.TC002_LoginTest - ** Click Login Page **
+15:40:32.918 [main] INFO  testCases.TC002_LoginTest - ** Login Page is opened **
+15:40:32.918 [main] INFO  testCases.TC002_LoginTest - ** Set Login Page Details **
+15:40:35.873 [main] INFO  testCases.TC002_LoginTest - ** User id Logged IN **
+15:40:35.873 [main] INFO  testCases.TC002_LoginTest - ** My Account page is opening **
+12:16:24.175 [main] INFO  org.testng.internal.Utils - [TestNG] Running:
+  D:\Java\ecommerceOpenCart\master.xml
+
+12:17:05.774 [main] INFO  testCases.TC001_AccountRegistrationTest - ***** Starting TC_0001_Account_Registration_Test *****
+12:17:06.887 [main] INFO  testCases.TC001_AccountRegistrationTest - * Click on My Account Link *
+12:17:07.773 [main] INFO  testCases.TC001_AccountRegistrationTest - * Click on Register Link *
+12:17:07.784 [main] INFO  testCases.TC001_AccountRegistrationTest - * Providing Customer Details *
+12:17:10.438 [main] INFO  testCases.TC001_AccountRegistrationTest - * Validating Expected Message.. *
+12:17:10.542 [main] INFO  testCases.TC001_AccountRegistrationTest - ***** Finish TC_0001_Account_Registration_Test *****
+12:17:20.749 [main] INFO  testCases.TC002_LoginTest - ***** Staring TC_002_LoginTest *****
+12:17:20.750 [main] INFO  testCases.TC002_LoginTest - ** Open Home Page **
+12:17:23.832 [main] INFO  testCases.TC002_LoginTest - ** Home Page is opened **
+12:17:23.832 [main] INFO  testCases.TC002_LoginTest - ** Click Login Page **
+12:17:26.389 [main] INFO  testCases.TC002_LoginTest - ** Login Page is opened **
+12:17:26.389 [main] INFO  testCases.TC002_LoginTest - ** Set Login Page Details **
+12:17:29.545 [main] INFO  testCases.TC002_LoginTest - ** User id Logged IN **
+12:17:29.546 [main] INFO  testCases.TC002_LoginTest - ** My Account page is opening **
+12:17:29.683 [main] INFO  testCases.TC002_LoginTest - ** verify that the My Account page is opened or not **
+12:17:29.683 [main] INFO  testCases.TC002_LoginTest - ***** Finished TC_002_LoginTest *****

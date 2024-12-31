@@ -1,0 +1,61 @@
+15:28:33.906 [main] INFO  testCases.TC001_AccountRegistrationTest - * Click on My Account Link *
+15:28:34.890 [main] INFO  testCases.TC001_AccountRegistrationTest - * Click on Register Link *
+15:28:34.894 [main] INFO  testCases.TC001_AccountRegistrationTest - * Providing Customer Details *
+15:28:36.937 [main] INFO  testCases.TC001_AccountRegistrationTest - * Validating Expected Message.. *
+15:28:37.030 [main] INFO  testCases.TC001_AccountRegistrationTest - ***** Finish TC_0001_Account_Registration_Test *****
+15:28:53.849 [main] INFO  testCases.TC002_LoginTest - ***** Staring TC_002_LoginTest *****
+15:28:53.850 [main] INFO  testCases.TC002_LoginTest - ** Open Home Page **
+15:28:56.196 [main] INFO  testCases.TC002_LoginTest - ** Home Page is opened **
+15:28:56.198 [main] INFO  testCases.TC002_LoginTest - ** Click Login Page **
+15:28:58.843 [main] INFO  testCases.TC002_LoginTest - ** Login Page is opened **
+15:28:58.843 [main] INFO  testCases.TC002_LoginTest - ** Set Login Page Details **
+15:29:02.427 [main] INFO  testCases.TC002_LoginTest - ** User id Logged IN **
+15:29:02.427 [main] INFO  testCases.TC002_LoginTest - ** My Account page is opening **
+15:29:02.495 [main] INFO  testCases.TC002_LoginTest - ** verify that the My Account page is opened or not **
+15:29:02.495 [main] INFO  testCases.TC002_LoginTest - ***** Finished TC_002_LoginTest *****
+15:30:30.166 [main] INFO  org.testng.internal.Utils - [TestNG] Running:
+  D:\Java\ecommerceOpenCart\grouping.xml
+
+15:35:27.342 [main] INFO  org.testng.internal.Utils - [TestNG] Running:
+  D:\Java\ecommerceOpenCart\grouping.xml
+
+15:35:33.886 [main] INFO  testCases.TC001_AccountRegistrationTest - ***** Starting TC_0001_Account_Registration_Test *****
+15:35:35.328 [main] INFO  testCases.TC001_AccountRegistrationTest - * Click on My Account Link *
+15:35:38.319 [main] INFO  testCases.TC001_AccountRegistrationTest - * Click on Register Link *
+15:35:38.324 [main] INFO  testCases.TC001_AccountRegistrationTest - * Providing Customer Details *
+15:35:40.375 [main] INFO  testCases.TC001_AccountRegistrationTest - * Validating Expected Message.. *
+15:35:40.486 [main] INFO  testCases.TC001_AccountRegistrationTest - ***** Finish TC_0001_Account_Registration_Test *****
+15:35:49.937 [main] INFO  testCases.TC002_LoginTest - ***** Staring TC_002_LoginTest *****
+15:35:49.938 [main] INFO  testCases.TC002_LoginTest - ** Open Home Page **
+15:35:53.116 [main] INFO  testCases.TC002_LoginTest - ** Home Page is opened **
+15:35:53.116 [main] INFO  testCases.TC002_LoginTest - ** Click Login Page **
+15:35:55.757 [main] INFO  testCases.TC002_LoginTest - ** Login Page is opened **
+15:35:55.758 [main] INFO  testCases.TC002_LoginTest - ** Set Login Page Details **
+15:35:58.919 [main] INFO  testCases.TC002_LoginTest - ** User id Logged IN **
+15:35:58.919 [main] INFO  testCases.TC002_LoginTest - ** My Account page is opening **
+15:35:59.027 [main] INFO  testCases.TC002_LoginTest - ** verify that the My Account page is opened or not **
+15:35:59.028 [main] INFO  testCases.TC002_LoginTest - ***** Finished TC_002_LoginTest *****
+15:38:47.092 [main] INFO  org.testng.internal.Utils - [TestNG] Running:
+  D:\Java\ecommerceOpenCart\grouping.xml
+
+15:38:52.227 [main] INFO  testCases.TC001_AccountRegistrationTest - ***** Starting TC_0001_Account_Registration_Test *****
+15:38:53.081 [main] INFO  testCases.TC001_AccountRegistrationTest - * Click on My Account Link *
+15:38:53.879 [main] INFO  testCases.TC001_AccountRegistrationTest - * Click on Register Link *
+15:38:53.888 [main] INFO  testCases.TC001_AccountRegistrationTest - * Providing Customer Details *
+15:38:56.150 [main] INFO  testCases.TC001_AccountRegistrationTest - * Validating Expected Message.. *
+15:38:56.215 [main] INFO  testCases.TC001_AccountRegistrationTest - ***** Finish TC_0001_Account_Registration_Test *****
+15:39:06.406 [main] INFO  testCases.TC002_LoginTest - ***** Staring TC_002_LoginTest *****
+15:39:06.406 [main] INFO  testCases.TC002_LoginTest - ** Open Home Page **
+15:39:09.414 [main] INFO  testCases.TC002_LoginTest - ** Home Page is opened **
+15:39:09.414 [main] INFO  testCases.TC002_LoginTest - ** Click Login Page **
+15:39:12.027 [main] INFO  testCases.TC002_LoginTest - ** Login Page is opened **
+15:39:12.027 [main] INFO  testCases.TC002_LoginTest - ** Set Login Page Details **
+15:39:15.117 [main] INFO  testCases.TC002_LoginTest - ** User id Logged IN **
+15:39:15.117 [main] INFO  testCases.TC002_LoginTest - ** My Account page is opening **
+15:39:15.171 [main] INFO  testCases.TC002_LoginTest - ** verify that the My Account page is opened or not **
+15:39:15.171 [main] INFO  testCases.TC002_LoginTest - ***** Finished TC_002_LoginTest *****
+15:40:08.503 [main] INFO  org.testng.internal.Utils - [TestNG] Running:
+  D:\Java\ecommerceOpenCart\grouping.xml
+
+15:40:13.842 [main] INFO  testCases.TC001_AccountRegistrationTest - ***** Starting TC_0001_Account_Registration_Test *****
+15:40:14.713 [main] INFO  testCases.TC001_AccountRegistrationTest - * Click on My Account Link *
