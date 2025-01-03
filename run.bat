@@ -1,2 +1,2 @@
-cd C:\Automation\myworkspaces\seleniumwebdriver\OpencartV121
+cd D:\Java\ecommerceOpenCart
 mvn test
